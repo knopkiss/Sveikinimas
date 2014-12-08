@@ -2,4 +2,5 @@ Sveikinimas
 ===========
 
 Čia yra sveikinimas
-Ir taip toliau
+O čia kas?
+Ir taip, o ką?
